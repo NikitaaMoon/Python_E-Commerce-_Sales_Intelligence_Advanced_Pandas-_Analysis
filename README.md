@@ -84,3 +84,10 @@ This project mirrors real data analyst workflows across industries:
 The techniques demonstrated — data cleaning, aggregation, reshaping, and time series analysis — collectively address **80% of real-world analytics tasks** in business settings.
 
 ---
+## 🌐 <a href="https://69be6cadb8d2bc2e21ccfdfc--hilarious-pasca-037fff.netlify.app/">✨ Visit My Portfolio ✨</a>
+
+---
+
+<p align="center">
+  🚀 <b>Turning Data into Insights | SQL | Analytics | Problem Solving</b>
+</p>
